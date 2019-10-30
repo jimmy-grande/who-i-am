@@ -10,6 +10,6 @@ To achieve this goal the project will be composed of several parts
 
 ## TODO LIST
 
-[] create an open api documentation  
-[] generate a server from the open API file  
-[] store data in a database
+- [ ] create an open api documentation  
+- [ ] generate a server from the open API file  
+- [ ] store data in a database
